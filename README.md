@@ -2,14 +2,13 @@
 
 Site : https://harshxor.github.io/
 
---
+---
 
 ## Recent Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshXor&theme=react-dark&area=true)](https://github.com/HarshXor)
 
 ## Streak
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HarshXor&theme=transparent&border_radius=5)
-
 
 <!--
 **afrzlfa/afrzlfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
