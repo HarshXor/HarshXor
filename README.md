@@ -4,7 +4,7 @@ Site : https://harshxor.github.io/
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github&area=true&color=00ff00)](https://github.com/USER/repo)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshXor&theme=github&area=true&color=00ff00)](https://github.com/HarshXor/HarshXor)
 
 
 <!--
