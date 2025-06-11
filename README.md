@@ -4,7 +4,7 @@ Site : https://harshxor.github.io/
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshXor&show_icons=true&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=USERNAME&theme=github-compact)
 
 
 <!--
