@@ -2,6 +2,8 @@
 
 Site : https://harshxor.github.io/
 
+----
+
 ## Recent Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshXor&theme=react-dark&area=true)](https://github.com/HarshXor)
 
