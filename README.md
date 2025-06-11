@@ -10,6 +10,9 @@ Site : https://harshxor.github.io/
 ## Streak
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HarshXor&theme=transparent&border_radius=5)
 
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarashXor&layout=compact&theme=radical)
+
 <!--
 **afrzlfa/afrzlfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
