@@ -9,7 +9,7 @@ Site : https://harshxor.github.io/
 
 ## Stats
 <img alt="" align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshXor&theme=hacker&border_radius=5" />
-<img alt="" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshXor&layout=compact&theme=hacker" />
+<img alt="" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshXor&layout=compact&theme=chartreuse-dark" />
 
 <!--
 **afrzlfa/afrzlfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
