@@ -5,7 +5,7 @@ Site : https://harshxor.github.io/
 ---
 
 ## Recent Activity
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshXor&theme=react-dark&area=true)](https://github.com/HarshXor)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshXor&theme=github-compact&area=true)](https://github.com/HarshXor)
 
 ## Stats
 <img alt="" align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshXor&theme=hacker&border_radius=5" />
