@@ -4,6 +4,8 @@ Site : https://harshxor.github.io/
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=HarshXor&label=RxDiag&color=0e75b6&style=flat-square" alt="HarshXor" /> 
+
 ## Recent Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshXor&theme=github-compact&area=true)](https://github.com/HarshXor)
 
